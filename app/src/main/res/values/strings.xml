@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BangkitFirst</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="nomor_telepon">Nomor telepon</string>
+    <string name="peminatan">Peminatan</string>
+    <string name="masuk">Masuk</string>
+    <string name="testing">Testing</string>
+    <string name="author_name">Erlangga Riansyah</string>
+    <string name="about_writer">About the writer</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet concectur ashh yegyfdb dhfgdh ghgfh ehwghhwge</string>
+    <string name="bangkit_question">Apa itu Bangkit Academy?</string>
+    <string name="bangkit_academy">Bangkit Academy</string>
+    <string name="ilustrasi">Ilustrasi</string>
+    <string name="erlangga_riansyah">Erlangga Riansyah</string>
+    <string name="email">erlanggariansyah0@gmail.com</string>
+    <string name="share">Share</string>
+    <string-array name="purpose_items">
+        <item>MBKM Mitra Dikti</item>
+        <item>MBKM Mandiri</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string-array name="interest_items">
+        <item>Android Development</item>
+        <item>Cloud Computing</item>
+        <item>Machine Learning</item>
+    </string-array>
+</resources>

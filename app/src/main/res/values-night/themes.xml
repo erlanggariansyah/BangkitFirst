@@ -1,0 +1,10 @@
+<resources>
+    <style name="Base.Theme.BangkitFirst" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#ff3030</item>
+        <item name="colorPrimaryVariant">#FF9090</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/orange_light</item>
+        <item name="colorSecondaryVariant">@color/orange_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>
